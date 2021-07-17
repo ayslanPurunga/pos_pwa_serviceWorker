@@ -1,0 +1,20 @@
+{
+    "short_name": "Tirinhas",
+    "name": "Tirinhas Vida de Programador",
+    "icons": [
+        {
+            "src": "imgs/icon-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "imgs/icon-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        }
+    ],
+    "start_url": "?tipo=pwa",
+    "display": "standalone",
+    "background-color": "#333",
+    "theme_color": "#333"
+}
